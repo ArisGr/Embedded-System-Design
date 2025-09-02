@@ -20,7 +20,7 @@ Focus: **Optimizing the PHODS motion estimation algorithm** for energy efficienc
 
 ---
 
-## 🗂️ Exercise 2 – Dynamic Data Structure Optimization (DDTR)  
+## Exercise 2 – Dynamic Data Structure Optimization (DDTR)  
 
 Focus: **Optimizing memory usage and access patterns** in two applications using **Dynamic Data Type Refinement (DDTR)**.  
 
@@ -36,7 +36,7 @@ Focus: **Optimizing memory usage and access patterns** in two applications using
 
 ---
 
-## 🎬 Exercise 3 – High Level Synthesis (HLS) for FPGA  
+## Exercise 3 – High Level Synthesis (HLS) for FPGA  
 
 Focus: **Accelerating a movie recommendation system (KNN)** using FPGA with **High Level Synthesis (HLS)**.  
 
@@ -50,7 +50,7 @@ Focus: **Accelerating a movie recommendation system (KNN)** using FPGA with **Hi
 
 ---
 
-## 🧠 Exercise 4 – High Level Synthesis with GANs on FPGA  
+## Exercise 4 – High Level Synthesis with GANs on FPGA  
 
 Focus: **Accelerating neural network inference (GAN generator)** using **High Level Synthesis (HLS)** on the **Xilinx Zybo FPGA**.  
 
@@ -64,7 +64,7 @@ Focus: **Accelerating neural network inference (GAN generator)** using **High Le
 
 ---
 
-## ⚙️ Exercise 5 – ARM Assembly Programming  
+## Exercise 5 – ARM Assembly Programming  
 
 Focus: **Hands-on programming in ARM assembly**, covering string manipulation, I/O handling, serial communication, and C integration.  
 
@@ -80,7 +80,7 @@ Focus: **Hands-on programming in ARM assembly**, covering string manipulation, I
 
 ---
 
-## 🛠️ Exercise 6 – Cross-Compiling & Kernel Development for ARM  
+## Exercise 6 – Cross-Compiling & Kernel Development for ARM  
 
 Focus: **Cross-compiling programs and building a custom Linux kernel** for ARM on QEMU, using both custom and precompiled toolchains.  
 
