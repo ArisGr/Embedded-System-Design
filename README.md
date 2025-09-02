@@ -5,7 +5,7 @@ Each exercise focuses on **optimization techniques**, **low-level programming**,
 
 ---
 
-## ⚡ Exercise 1 – Algorithm Optimization & Design Space Exploration  
+## Exercise 1 – Algorithm Optimization & Design Space Exploration  
 
 Focus: **Optimizing the PHODS motion estimation algorithm** for energy efficiency and execution speed.  
 
